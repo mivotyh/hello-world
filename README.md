@@ -1,4 +1,4 @@
 # hello-world
 Following the guide
-Hi
-Olivia here. After wasting 20 years in the wonder of purchasing money, I just realised that what made me happy does not necessarily mean anything to the world. The only meaningful way of spending my time is to do the things I feel fine, like what I am doing right now: not worrying about doing nothing practical, but simply enjoy the way of typing & editing a non-sense repository.
+Hi. It's Olivia here. 
+After being buried in the fake urge of earning money for more than 10 years, I just realised that what made me happy does not necessarily  need to mean anything to anyone else. The only right way to spend my precious time is to do the things that I feel like doing, like simply enjoying the way of typing & editing a non-sense repository now, without worrying about not doing anything useful.
